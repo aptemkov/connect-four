@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val input = readLine()!!
+        // write code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6782#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 13 Apr 2022 18:05:00 UTC
+record: -1
